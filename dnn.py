@@ -1,7 +1,7 @@
 import numpy as np
 
 
-class Network:
+class DNN:
     """ This network will train slowly, it purposely
         propagates forward and backward 1  neuron,
         weight, activation and training example at a
